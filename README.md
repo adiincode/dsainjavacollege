@@ -94,6 +94,7 @@ Artificial Intelligence & Machine Learning
 | [0455-assign-cookies](https://github.com/adiincode/dsainjavacollege/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/adiincode/dsainjavacollege/tree/master/0977-squares-of-a-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,12 +111,14 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0680-valid-palindrome-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/adiincode/dsainjavacollege/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0680-valid-palindrome-ii) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adiincode/dsainjavacollege/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -152,6 +155,7 @@ Artificial Intelligence & Machine Learning
 ## Dynamic Programming
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adiincode/dsainjavacollege/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting Sort
 |  |
