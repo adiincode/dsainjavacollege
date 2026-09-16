@@ -77,6 +77,7 @@ Artificial Intelligence & Machine Learning
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adiincode/dsainjavacollege/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/adiincode/dsainjavacollege/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adiincode/dsainjavacollege/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/adiincode/dsainjavacollege/tree/master/0283-move-zeroes) |
@@ -100,6 +101,7 @@ Artificial Intelligence & Machine Learning
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adiincode/dsainjavacollege/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adiincode/dsainjavacollege/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adiincode/dsainjavacollege/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
@@ -199,4 +201,8 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/adiincode/dsainjavacollege/tree/master/0835-image-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adiincode/dsainjavacollege/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
