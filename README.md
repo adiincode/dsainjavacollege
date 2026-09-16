@@ -110,6 +110,7 @@ Artificial Intelligence & Machine Learning
 ## String
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
 | [0680-valid-palindrome-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0680-valid-palindrome-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
@@ -139,11 +140,13 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adiincode/dsainjavacollege/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adiincode/dsainjavacollege/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adiincode/dsainjavacollege/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adiincode/dsainjavacollege/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -156,6 +159,7 @@ Artificial Intelligence & Machine Learning
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adiincode/dsainjavacollege/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adiincode/dsainjavacollege/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -175,4 +179,12 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adiincode/dsainjavacollege/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
