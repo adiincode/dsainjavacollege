@@ -213,4 +213,8 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adiincode/dsainjavacollege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/adiincode/dsainjavacollege/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
