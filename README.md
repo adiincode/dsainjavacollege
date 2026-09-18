@@ -111,6 +111,7 @@ Artificial Intelligence & Machine Learning
 | ------- |
 | [0455-assign-cookies](https://github.com/adiincode/dsainjavacollege/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/adiincode/dsainjavacollege/tree/master/0977-squares-of-a-sorted-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adiincode/dsainjavacollege/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adiincode/dsainjavacollege/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String
@@ -119,12 +120,14 @@ Artificial Intelligence & Machine Learning
 | [0005-longest-palindromic-substring](https://github.com/adiincode/dsainjavacollege/tree/master/0005-longest-palindromic-substring) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
 | [0680-valid-palindrome-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0680-valid-palindrome-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/adiincode/dsainjavacollege/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0680-valid-palindrome-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adiincode/dsainjavacollege/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Tree
@@ -159,6 +162,7 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adiincode/dsainjavacollege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adiincode/dsainjavacollege/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
