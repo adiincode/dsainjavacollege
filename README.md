@@ -151,6 +151,7 @@ Artificial Intelligence & Machine Learning
 | ------- |
 | [0002-add-two-numbers](https://github.com/adiincode/dsainjavacollege/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/adiincode/dsainjavacollege/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adiincode/dsainjavacollege/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Recursion
 |  |
@@ -221,4 +222,8 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/adiincode/dsainjavacollege/tree/master/0175-combine-two-tables) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/adiincode/dsainjavacollege/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
