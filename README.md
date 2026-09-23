@@ -122,6 +122,7 @@ Artificial Intelligence & Machine Learning
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adiincode/dsainjavacollege/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/adiincode/dsainjavacollege/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/adiincode/dsainjavacollege/tree/master/0013-roman-to-integer) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
 | [0680-valid-palindrome-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0680-valid-palindrome-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -156,6 +157,7 @@ Artificial Intelligence & Machine Learning
 | ------- |
 | [0002-add-two-numbers](https://github.com/adiincode/dsainjavacollege/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/adiincode/dsainjavacollege/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/adiincode/dsainjavacollege/tree/master/0013-roman-to-integer) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adiincode/dsainjavacollege/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adiincode/dsainjavacollege/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -170,6 +172,7 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/adiincode/dsainjavacollege/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/adiincode/dsainjavacollege/tree/master/0013-roman-to-integer) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adiincode/dsainjavacollege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adiincode/dsainjavacollege/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
