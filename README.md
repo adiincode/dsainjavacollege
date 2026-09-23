@@ -78,6 +78,7 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adiincode/dsainjavacollege/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/adiincode/dsainjavacollege/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/adiincode/dsainjavacollege/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adiincode/dsainjavacollege/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/adiincode/dsainjavacollege/tree/master/0283-move-zeroes) |
@@ -123,6 +124,7 @@ Artificial Intelligence & Machine Learning
 | [0005-longest-palindromic-substring](https://github.com/adiincode/dsainjavacollege/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/adiincode/dsainjavacollege/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adiincode/dsainjavacollege/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/adiincode/dsainjavacollege/tree/master/0014-longest-common-prefix) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
 | [0680-valid-palindrome-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0680-valid-palindrome-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -245,4 +247,8 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/adiincode/dsainjavacollege/tree/master/3498-reverse-degree-of-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/adiincode/dsainjavacollege/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
