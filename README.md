@@ -133,6 +133,7 @@ Artificial Intelligence & Machine Learning
 | [0567-permutation-in-string](https://github.com/adiincode/dsainjavacollege/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0680-valid-palindrome-ii) |
 | [1096-brace-expansion-ii](https://github.com/adiincode/dsainjavacollege/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adiincode/dsainjavacollege/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -229,6 +230,7 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Manacher
 |  |
 | ------- |
@@ -271,6 +273,7 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/adiincode/dsainjavacollege/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
