@@ -151,14 +151,17 @@ Artificial Intelligence & Machine Learning
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adiincode/dsainjavacollege/tree/master/0100-same-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adiincode/dsainjavacollege/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adiincode/dsainjavacollege/tree/master/0100-same-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adiincode/dsainjavacollege/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adiincode/dsainjavacollege/tree/master/0100-same-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adiincode/dsainjavacollege/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
 |  |
@@ -285,5 +288,6 @@ Artificial Intelligence & Machine Learning
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adiincode/dsainjavacollege/tree/master/0100-same-tree) |
 | [1096-brace-expansion-ii](https://github.com/adiincode/dsainjavacollege/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
