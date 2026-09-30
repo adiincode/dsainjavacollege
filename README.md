@@ -78,6 +78,7 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adiincode/dsainjavacollege/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/adiincode/dsainjavacollege/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/adiincode/dsainjavacollege/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/adiincode/dsainjavacollege/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adiincode/dsainjavacollege/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -98,6 +99,7 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adiincode/dsainjavacollege/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/adiincode/dsainjavacollege/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/adiincode/dsainjavacollege/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adiincode/dsainjavacollege/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/adiincode/dsainjavacollege/tree/master/0283-move-zeroes) |
@@ -143,6 +145,7 @@ Artificial Intelligence & Machine Learning
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adiincode/dsainjavacollege/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/adiincode/dsainjavacollege/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0680-valid-palindrome-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
