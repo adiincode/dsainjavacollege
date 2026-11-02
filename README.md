@@ -92,6 +92,7 @@ Artificial Intelligence & Machine Learning
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adiincode/dsainjavacollege/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adiincode/dsainjavacollege/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adiincode/dsainjavacollege/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/adiincode/dsainjavacollege/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adiincode/dsainjavacollege/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adiincode/dsainjavacollege/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/adiincode/dsainjavacollege/tree/master/3524-find-x-value-of-array-i) |
@@ -207,6 +208,7 @@ Artificial Intelligence & Machine Learning
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adiincode/dsainjavacollege/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adiincode/dsainjavacollege/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/adiincode/dsainjavacollege/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adiincode/dsainjavacollege/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -275,6 +277,7 @@ Artificial Intelligence & Machine Learning
 | [0567-permutation-in-string](https://github.com/adiincode/dsainjavacollege/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adiincode/dsainjavacollege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adiincode/dsainjavacollege/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/adiincode/dsainjavacollege/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Database
 |  |
 | ------- |
@@ -309,4 +312,8 @@ Artificial Intelligence & Machine Learning
 | ------- |
 | [0100-same-tree](https://github.com/adiincode/dsainjavacollege/tree/master/0100-same-tree) |
 | [1096-brace-expansion-ii](https://github.com/adiincode/dsainjavacollege/tree/master/1096-brace-expansion-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/adiincode/dsainjavacollege/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 <!---LeetCode Topics End-->
