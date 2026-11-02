@@ -139,6 +139,7 @@ Artificial Intelligence & Machine Learning
 | [0091-decode-ways](https://github.com/adiincode/dsainjavacollege/tree/master/0091-decode-ways) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
 | [0567-permutation-in-string](https://github.com/adiincode/dsainjavacollege/tree/master/0567-permutation-in-string) |
+| [0639-decode-ways-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0639-decode-ways-ii) |
 | [0680-valid-palindrome-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0680-valid-palindrome-ii) |
 | [1096-brace-expansion-ii](https://github.com/adiincode/dsainjavacollege/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -218,6 +219,7 @@ Artificial Intelligence & Machine Learning
 | [0022-generate-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/adiincode/dsainjavacollege/tree/master/0091-decode-ways) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
+| [0639-decode-ways-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0639-decode-ways-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adiincode/dsainjavacollege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adiincode/dsainjavacollege/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adiincode/dsainjavacollege/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
