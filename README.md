@@ -139,6 +139,7 @@ Artificial Intelligence & Machine Learning
 | [0020-valid-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/adiincode/dsainjavacollege/tree/master/0091-decode-ways) |
+| [0127-word-ladder](https://github.com/adiincode/dsainjavacollege/tree/master/0127-word-ladder) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
 | [0567-permutation-in-string](https://github.com/adiincode/dsainjavacollege/tree/master/0567-permutation-in-string) |
 | [0639-decode-ways-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0639-decode-ways-ii) |
@@ -203,6 +204,7 @@ Artificial Intelligence & Machine Learning
 | [0012-integer-to-roman](https://github.com/adiincode/dsainjavacollege/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adiincode/dsainjavacollege/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adiincode/dsainjavacollege/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0127-word-ladder](https://github.com/adiincode/dsainjavacollege/tree/master/0127-word-ladder) |
 | [0567-permutation-in-string](https://github.com/adiincode/dsainjavacollege/tree/master/0567-permutation-in-string) |
 | [1096-brace-expansion-ii](https://github.com/adiincode/dsainjavacollege/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adiincode/dsainjavacollege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -315,9 +317,14 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/adiincode/dsainjavacollege/tree/master/0100-same-tree) |
+| [0127-word-ladder](https://github.com/adiincode/dsainjavacollege/tree/master/0127-word-ladder) |
 | [1096-brace-expansion-ii](https://github.com/adiincode/dsainjavacollege/tree/master/1096-brace-expansion-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/adiincode/dsainjavacollege/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/adiincode/dsainjavacollege/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
