@@ -81,6 +81,7 @@ Artificial Intelligence & Machine Learning
 | [0011-container-with-most-water](https://github.com/adiincode/dsainjavacollege/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/adiincode/dsainjavacollege/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/adiincode/dsainjavacollege/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/adiincode/dsainjavacollege/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adiincode/dsainjavacollege/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/adiincode/dsainjavacollege/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/adiincode/dsainjavacollege/tree/master/0455-assign-cookies) |
@@ -180,6 +181,7 @@ Artificial Intelligence & Machine Learning
 | [0009-palindrome-number](https://github.com/adiincode/dsainjavacollege/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/adiincode/dsainjavacollege/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adiincode/dsainjavacollege/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/adiincode/dsainjavacollege/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adiincode/dsainjavacollege/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adiincode/dsainjavacollege/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
