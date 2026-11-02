@@ -82,6 +82,7 @@ Artificial Intelligence & Machine Learning
 | [0014-longest-common-prefix](https://github.com/adiincode/dsainjavacollege/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/adiincode/dsainjavacollege/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/adiincode/dsainjavacollege/tree/master/0066-plus-one) |
+| [0128-longest-consecutive-sequence](https://github.com/adiincode/dsainjavacollege/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adiincode/dsainjavacollege/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/adiincode/dsainjavacollege/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/adiincode/dsainjavacollege/tree/master/0455-assign-cookies) |
@@ -205,6 +206,7 @@ Artificial Intelligence & Machine Learning
 | [0013-roman-to-integer](https://github.com/adiincode/dsainjavacollege/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adiincode/dsainjavacollege/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/adiincode/dsainjavacollege/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/adiincode/dsainjavacollege/tree/master/0128-longest-consecutive-sequence) |
 | [0567-permutation-in-string](https://github.com/adiincode/dsainjavacollege/tree/master/0567-permutation-in-string) |
 | [1096-brace-expansion-ii](https://github.com/adiincode/dsainjavacollege/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adiincode/dsainjavacollege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -327,4 +329,8 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/adiincode/dsainjavacollege/tree/master/0127-word-ladder) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/adiincode/dsainjavacollege/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
