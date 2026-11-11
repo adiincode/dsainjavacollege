@@ -87,6 +87,7 @@ Artificial Intelligence & Machine Learning
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adiincode/dsainjavacollege/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/adiincode/dsainjavacollege/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/adiincode/dsainjavacollege/tree/master/0455-assign-cookies) |
+| [0503-next-greater-element-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0503-next-greater-element-ii) |
 | [0835-image-overlap](https://github.com/adiincode/dsainjavacollege/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/adiincode/dsainjavacollege/tree/master/0977-squares-of-a-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adiincode/dsainjavacollege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -323,6 +324,7 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0503-next-greater-element-ii) |
 | [1096-brace-expansion-ii](https://github.com/adiincode/dsainjavacollege/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -346,4 +348,8 @@ Artificial Intelligence & Machine Learning
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adiincode/dsainjavacollege/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/adiincode/dsainjavacollege/tree/master/0130-surrounded-regions) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
