@@ -87,6 +87,7 @@ Artificial Intelligence & Machine Learning
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adiincode/dsainjavacollege/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/adiincode/dsainjavacollege/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/adiincode/dsainjavacollege/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/adiincode/dsainjavacollege/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0503-next-greater-element-ii) |
 | [0835-image-overlap](https://github.com/adiincode/dsainjavacollege/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/adiincode/dsainjavacollege/tree/master/0977-squares-of-a-sorted-array) |
@@ -218,6 +219,7 @@ Artificial Intelligence & Machine Learning
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adiincode/dsainjavacollege/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/adiincode/dsainjavacollege/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/adiincode/dsainjavacollege/tree/master/0128-longest-consecutive-sequence) |
+| [0496-next-greater-element-i](https://github.com/adiincode/dsainjavacollege/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/adiincode/dsainjavacollege/tree/master/0567-permutation-in-string) |
 | [1096-brace-expansion-ii](https://github.com/adiincode/dsainjavacollege/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adiincode/dsainjavacollege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -324,6 +326,7 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/adiincode/dsainjavacollege/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0503-next-greater-element-ii) |
 | [1096-brace-expansion-ii](https://github.com/adiincode/dsainjavacollege/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -351,5 +354,6 @@ Artificial Intelligence & Machine Learning
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/adiincode/dsainjavacollege/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
