@@ -109,6 +109,7 @@ Artificial Intelligence & Machine Learning
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adiincode/dsainjavacollege/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/adiincode/dsainjavacollege/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/adiincode/dsainjavacollege/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/adiincode/dsainjavacollege/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/adiincode/dsainjavacollege/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/adiincode/dsainjavacollege/tree/master/0977-squares-of-a-sorted-array) |
@@ -143,6 +144,7 @@ Artificial Intelligence & Machine Learning
 | [0091-decode-ways](https://github.com/adiincode/dsainjavacollege/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/adiincode/dsainjavacollege/tree/master/0127-word-ladder) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
+| [0556-next-greater-element-iii](https://github.com/adiincode/dsainjavacollege/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/adiincode/dsainjavacollege/tree/master/0567-permutation-in-string) |
 | [0639-decode-ways-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0639-decode-ways-ii) |
 | [0680-valid-palindrome-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0680-valid-palindrome-ii) |
@@ -195,6 +197,7 @@ Artificial Intelligence & Machine Learning
 | [0013-roman-to-integer](https://github.com/adiincode/dsainjavacollege/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/adiincode/dsainjavacollege/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
+| [0556-next-greater-element-iii](https://github.com/adiincode/dsainjavacollege/tree/master/0556-next-greater-element-iii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adiincode/dsainjavacollege/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adiincode/dsainjavacollege/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/adiincode/dsainjavacollege/tree/master/3524-find-x-value-of-array-i) |
