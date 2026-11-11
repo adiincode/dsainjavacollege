@@ -171,12 +171,14 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/adiincode/dsainjavacollege/tree/master/0100-same-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adiincode/dsainjavacollege/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/adiincode/dsainjavacollege/tree/master/0129-sum-root-to-leaf-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adiincode/dsainjavacollege/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/adiincode/dsainjavacollege/tree/master/0100-same-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adiincode/dsainjavacollege/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/adiincode/dsainjavacollege/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/adiincode/dsainjavacollege/tree/master/0130-surrounded-regions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adiincode/dsainjavacollege/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -184,12 +186,14 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/adiincode/dsainjavacollege/tree/master/0100-same-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adiincode/dsainjavacollege/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/adiincode/dsainjavacollege/tree/master/0129-sum-root-to-leaf-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adiincode/dsainjavacollege/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adiincode/dsainjavacollege/tree/master/0002-add-two-numbers) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adiincode/dsainjavacollege/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Math
 |  |
 | ------- |
@@ -335,6 +339,7 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/adiincode/dsainjavacollege/tree/master/0100-same-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adiincode/dsainjavacollege/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0127-word-ladder](https://github.com/adiincode/dsainjavacollege/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/adiincode/dsainjavacollege/tree/master/0130-surrounded-regions) |
 | [1096-brace-expansion-ii](https://github.com/adiincode/dsainjavacollege/tree/master/1096-brace-expansion-ii) |
