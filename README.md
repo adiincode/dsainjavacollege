@@ -205,6 +205,7 @@ Artificial Intelligence & Machine Learning
 | [0013-roman-to-integer](https://github.com/adiincode/dsainjavacollege/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/adiincode/dsainjavacollege/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/adiincode/dsainjavacollege/tree/master/0258-add-digits) |
 | [0556-next-greater-element-iii](https://github.com/adiincode/dsainjavacollege/tree/master/0556-next-greater-element-iii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adiincode/dsainjavacollege/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adiincode/dsainjavacollege/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -319,6 +320,7 @@ Artificial Intelligence & Machine Learning
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/adiincode/dsainjavacollege/tree/master/0258-add-digits) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/adiincode/dsainjavacollege/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/adiincode/dsainjavacollege/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
@@ -366,4 +368,8 @@ Artificial Intelligence & Machine Learning
 | ------- |
 | [0496-next-greater-element-i](https://github.com/adiincode/dsainjavacollege/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0503-next-greater-element-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/adiincode/dsainjavacollege/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
