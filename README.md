@@ -103,6 +103,7 @@ Artificial Intelligence & Machine Learning
 | [3483-unique-3-digit-even-numbers](https://github.com/adiincode/dsainjavacollege/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/adiincode/dsainjavacollege/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adiincode/dsainjavacollege/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3701-compute-alternating-sum](https://github.com/adiincode/dsainjavacollege/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -324,6 +325,7 @@ Artificial Intelligence & Machine Learning
 | [0258-add-digits](https://github.com/adiincode/dsainjavacollege/tree/master/0258-add-digits) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/adiincode/dsainjavacollege/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/adiincode/dsainjavacollege/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/adiincode/dsainjavacollege/tree/master/3701-compute-alternating-sum) |
 ## Trie
 |  |
 | ------- |
