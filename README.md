@@ -89,6 +89,7 @@ Artificial Intelligence & Machine Learning
 | [0455-assign-cookies](https://github.com/adiincode/dsainjavacollege/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/adiincode/dsainjavacollege/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0503-next-greater-element-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/adiincode/dsainjavacollege/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/adiincode/dsainjavacollege/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/adiincode/dsainjavacollege/tree/master/0977-squares-of-a-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adiincode/dsainjavacollege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -126,6 +127,7 @@ Artificial Intelligence & Machine Learning
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adiincode/dsainjavacollege/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adiincode/dsainjavacollege/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/adiincode/dsainjavacollege/tree/master/0713-subarray-product-less-than-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adiincode/dsainjavacollege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adiincode/dsainjavacollege/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adiincode/dsainjavacollege/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -279,6 +281,7 @@ Artificial Intelligence & Machine Learning
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/adiincode/dsainjavacollege/tree/master/0713-subarray-product-less-than-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adiincode/dsainjavacollege/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adiincode/dsainjavacollege/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/adiincode/dsainjavacollege/tree/master/3364-minimum-positive-sum-subarray) |
@@ -313,6 +316,7 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/adiincode/dsainjavacollege/tree/master/0567-permutation-in-string) |
+| [0713-subarray-product-less-than-k](https://github.com/adiincode/dsainjavacollege/tree/master/0713-subarray-product-less-than-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adiincode/dsainjavacollege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adiincode/dsainjavacollege/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/adiincode/dsainjavacollege/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
