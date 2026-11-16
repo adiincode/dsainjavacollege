@@ -95,6 +95,7 @@ Artificial Intelligence & Machine Learning
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adiincode/dsainjavacollege/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adiincode/dsainjavacollege/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adiincode/dsainjavacollege/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/adiincode/dsainjavacollege/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adiincode/dsainjavacollege/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/adiincode/dsainjavacollege/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/adiincode/dsainjavacollege/tree/master/2547-minimum-cost-to-split-an-array) |
@@ -118,6 +119,7 @@ Artificial Intelligence & Machine Learning
 | [0567-permutation-in-string](https://github.com/adiincode/dsainjavacollege/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/adiincode/dsainjavacollege/tree/master/0977-squares-of-a-sorted-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/adiincode/dsainjavacollege/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
@@ -211,6 +213,7 @@ Artificial Intelligence & Machine Learning
 | [0556-next-greater-element-iii](https://github.com/adiincode/dsainjavacollege/tree/master/0556-next-greater-element-iii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adiincode/dsainjavacollege/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adiincode/dsainjavacollege/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/adiincode/dsainjavacollege/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/adiincode/dsainjavacollege/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2544-alternating-digit-sum](https://github.com/adiincode/dsainjavacollege/tree/master/2544-alternating-digit-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/adiincode/dsainjavacollege/tree/master/3524-find-x-value-of-array-i) |
@@ -254,6 +257,7 @@ Artificial Intelligence & Machine Learning
 | [0639-decode-ways-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0639-decode-ways-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adiincode/dsainjavacollege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adiincode/dsainjavacollege/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/adiincode/dsainjavacollege/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adiincode/dsainjavacollege/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/adiincode/dsainjavacollege/tree/master/2547-minimum-cost-to-split-an-array) |
@@ -311,6 +315,7 @@ Artificial Intelligence & Machine Learning
 | [0567-permutation-in-string](https://github.com/adiincode/dsainjavacollege/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adiincode/dsainjavacollege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adiincode/dsainjavacollege/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/adiincode/dsainjavacollege/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/adiincode/dsainjavacollege/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/adiincode/dsainjavacollege/tree/master/3364-minimum-positive-sum-subarray) |
 ## Database
