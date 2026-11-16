@@ -209,6 +209,7 @@ Artificial Intelligence & Machine Learning
 | [0556-next-greater-element-iii](https://github.com/adiincode/dsainjavacollege/tree/master/0556-next-greater-element-iii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adiincode/dsainjavacollege/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adiincode/dsainjavacollege/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2544-alternating-digit-sum](https://github.com/adiincode/dsainjavacollege/tree/master/2544-alternating-digit-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/adiincode/dsainjavacollege/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adiincode/dsainjavacollege/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/adiincode/dsainjavacollege/tree/master/3789-minimum-cost-to-acquire-required-items) |
