@@ -96,6 +96,7 @@ Artificial Intelligence & Machine Learning
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adiincode/dsainjavacollege/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adiincode/dsainjavacollege/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adiincode/dsainjavacollege/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/adiincode/dsainjavacollege/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/adiincode/dsainjavacollege/tree/master/2547-minimum-cost-to-split-an-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/adiincode/dsainjavacollege/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/adiincode/dsainjavacollege/tree/master/3364-minimum-positive-sum-subarray) |
@@ -210,6 +211,7 @@ Artificial Intelligence & Machine Learning
 | [0556-next-greater-element-iii](https://github.com/adiincode/dsainjavacollege/tree/master/0556-next-greater-element-iii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adiincode/dsainjavacollege/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adiincode/dsainjavacollege/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/adiincode/dsainjavacollege/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2544-alternating-digit-sum](https://github.com/adiincode/dsainjavacollege/tree/master/2544-alternating-digit-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/adiincode/dsainjavacollege/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adiincode/dsainjavacollege/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
