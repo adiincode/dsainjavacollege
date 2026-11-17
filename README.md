@@ -145,6 +145,7 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adiincode/dsainjavacollege/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/adiincode/dsainjavacollege/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/adiincode/dsainjavacollege/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adiincode/dsainjavacollege/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/adiincode/dsainjavacollege/tree/master/0014-longest-common-prefix) |
@@ -229,6 +230,7 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adiincode/dsainjavacollege/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/adiincode/dsainjavacollege/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/adiincode/dsainjavacollege/tree/master/0044-wildcard-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adiincode/dsainjavacollege/tree/master/3483-unique-3-digit-even-numbers) |
@@ -258,6 +260,7 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adiincode/dsainjavacollege/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/adiincode/dsainjavacollege/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/adiincode/dsainjavacollege/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/adiincode/dsainjavacollege/tree/master/0091-decode-ways) |
