@@ -122,6 +122,7 @@ Artificial Intelligence & Machine Learning
 | [0977-squares-of-a-sorted-array](https://github.com/adiincode/dsainjavacollege/tree/master/0977-squares-of-a-sorted-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/adiincode/dsainjavacollege/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/adiincode/dsainjavacollege/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Artificial Intelligence & Machine Learning
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adiincode/dsainjavacollege/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/adiincode/dsainjavacollege/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/adiincode/dsainjavacollege/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/adiincode/dsainjavacollege/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
@@ -263,6 +265,7 @@ Artificial Intelligence & Machine Learning
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adiincode/dsainjavacollege/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/adiincode/dsainjavacollege/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/adiincode/dsainjavacollege/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adiincode/dsainjavacollege/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/adiincode/dsainjavacollege/tree/master/3524-find-x-value-of-array-i) |
 ## Counting Sort
