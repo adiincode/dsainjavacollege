@@ -151,6 +151,7 @@ Artificial Intelligence & Machine Learning
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adiincode/dsainjavacollege/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/adiincode/dsainjavacollege/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/adiincode/dsainjavacollege/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/adiincode/dsainjavacollege/tree/master/0127-word-ladder) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
@@ -171,6 +172,7 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adiincode/dsainjavacollege/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/adiincode/dsainjavacollege/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/adiincode/dsainjavacollege/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0680-valid-palindrome-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adiincode/dsainjavacollege/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -227,6 +229,7 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adiincode/dsainjavacollege/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/adiincode/dsainjavacollege/tree/master/0044-wildcard-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adiincode/dsainjavacollege/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -256,6 +259,7 @@ Artificial Intelligence & Machine Learning
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adiincode/dsainjavacollege/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/adiincode/dsainjavacollege/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/adiincode/dsainjavacollege/tree/master/0091-decode-ways) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
 | [0639-decode-ways-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0639-decode-ways-ii) |
