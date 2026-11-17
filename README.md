@@ -156,6 +156,7 @@ Artificial Intelligence & Machine Learning
 | [0091-decode-ways](https://github.com/adiincode/dsainjavacollege/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/adiincode/dsainjavacollege/tree/master/0127-word-ladder) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/adiincode/dsainjavacollege/tree/master/0394-decode-string) |
 | [0556-next-greater-element-iii](https://github.com/adiincode/dsainjavacollege/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/adiincode/dsainjavacollege/tree/master/0567-permutation-in-string) |
 | [0639-decode-ways-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0639-decode-ways-ii) |
@@ -233,6 +234,7 @@ Artificial Intelligence & Machine Learning
 | [0010-regular-expression-matching](https://github.com/adiincode/dsainjavacollege/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/adiincode/dsainjavacollege/tree/master/0044-wildcard-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/adiincode/dsainjavacollege/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adiincode/dsainjavacollege/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -361,6 +363,7 @@ Artificial Intelligence & Machine Learning
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adiincode/dsainjavacollege/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/adiincode/dsainjavacollege/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/adiincode/dsainjavacollege/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adiincode/dsainjavacollege/tree/master/0503-next-greater-element-ii) |
 | [1096-brace-expansion-ii](https://github.com/adiincode/dsainjavacollege/tree/master/1096-brace-expansion-ii) |
